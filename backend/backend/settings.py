@@ -8,8 +8,8 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = secret_key
 
-ALLOWED_HOSTS = ['cryptolis.ru', 'cryptolis.online', '80.78.244.196']
-INTERNAL_IPS = ("127.0.0.1",)   # кортеж с перечнем IP-адресов, с которых может вестись разработка.
+ALLOWED_HOSTS = ['127.0.0.1', 'cryptolis.ru', 'cryptolis.online', '80.78.244.196']
+INTERNAL_IPS = ('127.0.0.1',)   # кортеж с перечнем IP-адресов, с которых может вестись разработка.
 
 
 # Application definition
