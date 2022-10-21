@@ -84,9 +84,9 @@ Password (again): ********
 Superuser created successfully.
 
 Команды для запуска приложения:
-python3 manage.py runserver
+$ python3 manage.py runserver
 Перейти в директорию django_api_with_react/frontend
-
+$ npm start
 
 
 Django-приложение будет доступно по адресу: http://127.0.0.1:8000/
