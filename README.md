@@ -86,6 +86,8 @@ Superuser created successfully.
 Команда для запуска приложения
 python3 manage.py runserver
 
+
+
 Приложение будет доступно по адресу: http://127.0.0.1:8000/
 
 Источники
